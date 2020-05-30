@@ -10,6 +10,11 @@ public class Test1 {
 		else {
 			System.out.println("do work");
 		}
+		
+	}
+	
+	public void doSomthing() {
+		System.out.println("remote repository push check 1");
 	}
 
 }
