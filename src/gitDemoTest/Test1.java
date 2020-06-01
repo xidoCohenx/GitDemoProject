@@ -13,7 +13,7 @@ public class Test1 {
 	}
 	
 	public void branchMaker() {
-		System.out.println("team > commit > name the commit > commit + push >  ");
+		System.out.println("team > commit > name the commit > commit + push > configure > re-select the branch  ");
 		
 	}
 
