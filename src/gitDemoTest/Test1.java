@@ -1,25 +1,20 @@
 package gitDemoTest;
 
 public class Test1 {
-	public static void main(String[] args) {
-		String hungry = "yes";
-		
-		if(hungry == "yes") {
-			System.out.println("eat somthing");
-		}
-		else {
-			System.out.println("do work");
-		}
-		
-	}
+	public static void main(String[] args) {}
 	
-	public void doSomthing() {
-		System.out.println("remote repository push check 1");
-		
+	public void gitRepPusher() {
+		System.out.println("team > >commit > name the commit > commit + push > ");
+				
 	}
 	
 	public void orKingifier() {
 		System.out.println(" i hereby make you a king ");
+	}
+	
+	public void branchMaker() {
+		System.out.println("by ");
+		
 	}
 
 }
