@@ -15,7 +15,7 @@ public class Test1 {
 
 	public void branchMaker() {
 		System.out.println("team > commit > name the commit > commit + push > configure > add >"
-				+ "the eclipse should automaticly recognize the branches that exists in the github repository  ");
+				+ "the eclipse should automaticly recognize the branches that exists in the github repository.  ");
 
 	}
 
