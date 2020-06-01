@@ -4,7 +4,7 @@ public class Test1 {
 	public static void main(String[] args) {}
 	
 	public void gitRepPusher() {
-		System.out.println("team > >commit > name the commit > commit + push > ");
+		System.out.println("team > commit > name the commit > commit + push > ");
 				
 	}
 	
@@ -13,7 +13,7 @@ public class Test1 {
 	}
 	
 	public void branchMaker() {
-		System.out.println("by ");
+		System.out.println("team > commit > name the commit > commit + push >  ");
 		
 	}
 
