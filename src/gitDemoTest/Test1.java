@@ -15,6 +15,11 @@ public class Test1 {
 	
 	public void doSomthing() {
 		System.out.println("remote repository push check 1");
+		
+	}
+	
+	public void orKingifier() {
+		System.out.println(" i hereby make you a king ");
 	}
 
 }
